@@ -17,7 +17,7 @@ bash <(curl -sL https://raw.githubusercontent.com/AKAKAY04/vpn/main/r.sh)
 ```
 
 -----------------------------------------------------------
-已经root用户报错的话用这个
+已经是root用户报错的话，直接用这个命令
 
 
 ```bash
